@@ -1,36 +1,70 @@
-# Public Health History
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Public Health History</title>
 
-Public Health History is a YouTube channel dedicated to exploring how societies around the world have understood, addressed and contested health, disease and wellbeing over time.
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      color: #111;
+      background: #fff;
+    }
 
-The project brings public health approaches and principles into conversation with history, examining public health challenges in their social, political, economic and environmental contexts. Rather than presenting public health as a simple story of linear progress, the series emphasises contingency, local knowledge, community agency and the uneven consequences of public health interventions.
+    header {
+      padding: 2.5rem 1.25rem 1rem;
+      border-bottom: 1px solid #ddd;
+    }
 
-Public Health History takes a global and inclusive perspective. It recognises that many issues now framed as “public health problems” were understood very differently in the past, and that historical responses were shaped by power, culture, resources and prevailing ideas about citizenship, responsibility and risk. The series also foregrounds the role of social determinants of health, environmental change and climate in shaping long-term health outcomes.
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 1.5rem 1.25rem 3rem;
+    }
 
-A core aim of the project is to critically examine both the achievements and the harms of public health. This includes acknowledging public health’s historical involvement in colonisation, racism, gender and social exclusion and environmental damage, alongside its contributions to improved health and wellbeing. By situating these histories within their specific contexts, the project seeks to learn from past successes and failures in ways that support equity, participation and human rights.
+    nav a {
+      margin-right: 1rem;
+      text-decoration: none;
+      color: #111;
+    }
 
-This website provides background notes, historical context, sources and recommended readings for selected episodes. References are prioritised, with open-access materials highlighted wherever possible. The broader goal is to use historical insight to inform contemporary public health thinking and practice, particularly in a period of global uncertainty and complex health challenges.
+    nav a:hover {
+      text-decoration: underline;
+    }
 
+    h1 {
+      margin: 0 0 0.5rem;
+    }
 
-<section style="margin-top:3rem;">
-  <h2>Welcome</h2>
+    h2 {
+      margin-top: 3rem;
+    }
 
-  <iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/embed/LAYedA22RwY" 
-    title="Welcome to Public Health History"
-    frameborder="0" 
-    allowfullscreen>
-  </iframe>
+    iframe {
+      max-width: 100%;
+      margin: 1.5rem 0;
+    }
+  </style>
+</head>
 
-  <p>
-    Public Health History explores how societies around the world have understood, addressed
-    and contested health, disease and wellbeing over time. Using historical case studies,
-    sites and ideas, the series brings public health principles into conversation with history.
-  </p>
+<body>
 
-  <p>
-    This introductory video outlines the aims of the project and explains why historical
-    perspective matters for contemporary public health thinking and practice.
-  </p>
-</section>
+  <header>
+    <main style="padding:0; max-width:860px;">
+      <h1>Public Health History</h1>
+      <nav>
+        <a href="index.html">Home</a>
+        <a href="videos.html">Videos</a>
+        <a href="reading.html">Recommended reading</a>
+        <a href="about.html">About</a>
+      </nav>
+    </main>
+  </header>
+
+  <main>
+
+    <p>
+      Public Health History is a YouTube channel dedicated
